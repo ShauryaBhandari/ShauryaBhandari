@@ -8,4 +8,6 @@ Feel free to drop by a message. :)
 > - 🌱 I’m currently learning Full Stack Development.
 > - 👯 I’m looking to collaborate on MERN stack projects.
 > - 💬 Ask me about anything!
+> - [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
