@@ -10,4 +10,7 @@ Feel free to drop by a message. :)
 > - 💬 Ask me about anything!
 > - [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+> ### Connect with me:
+
+![Dino.gif](https://github.com/ShauryaBhandari/ShauryaBhandari/blob/master/dino.gif)
 
