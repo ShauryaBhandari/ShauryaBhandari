@@ -2,7 +2,7 @@
 
 <!--
 **ShauryaBhandari/ShauryaBhandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I'm Shaurya, a front-end developer and ML enthusiast. Actively looking for internships and collaborations in the same field. 
+I'm Shaurya, a front-end developer and an ML enthusiast. Actively looking for internships and collaborations in the same field. 
 Feel free to drop by a message. 
 
 > - 🌱 I’m currently learning Full Stack Development.
@@ -23,8 +23,5 @@ Feel free to drop by a message.
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-
-
 ![Dino.gif](https://github.com/ShauryaBhandari/ShauryaBhandari/blob/master/dino.gif)
 
