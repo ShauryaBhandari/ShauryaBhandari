@@ -2,8 +2,11 @@
 
 <!--
 **ShauryaBhandari/ShauryaBhandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I'm Shaurya, a front-end developer and an ML enthusiast. Actively looking for internships and collaborations in the same field. 
-Feel free to drop by a message. 
+I am Shaurya Bhandari, a sophomore at SRM Institute of Science and Technology, KTR.
+I am a self-motivated and highly resourceful individual looking forward to gradually start-up. 
+On the bigger picture, I would like to start-up and make sure that Information and Technology is used to the best of its potential. I am passionate about transforming and modernizing Indian manufacturing by leveraging such technologies and make the manufacturing industries more efficient and competitive, on a global level.
+I wish to build real products that millions of people would use, start a company of my own. 
+Let's just collaborate on a project, or just talk! 
 
 > - 🌱 I’m currently learning Full Stack Development.
 > - 👯 I’m looking to collaborate on MERN stack projects.
