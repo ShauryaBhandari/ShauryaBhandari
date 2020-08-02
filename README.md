@@ -38,7 +38,5 @@ Feel free to drop by a message.
 
 <img align="left" alt="Shaurya Bhandari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShauryaBhandari&show_icons=true&hide_border=true" />
 
----
-
 ![Dino.gif](https://github.com/ShauryaBhandari/ShauryaBhandari/blob/master/dino.gif)
 
