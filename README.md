@@ -30,8 +30,10 @@ Feel free to drop by a message.
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 
-<br/>![Shaurya's github stats](https://github-readme-stats.vercel.app/api?username=ShauryaBhandari&show_icons=true&theme=radical)
- <br/>
+>![Shaurya's github stats](https://github-readme-stats.vercel.app/api?username=ShauryaBhandari&show_icons=true&theme=radical)
+<br/>
+
+---
 
 ![Dino.gif](https://github.com/ShauryaBhandari/ShauryaBhandari/blob/master/dino.gif)
 
