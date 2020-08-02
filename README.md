@@ -2,11 +2,11 @@
 
 <!--
 **ShauryaBhandari/ShauryaBhandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I am Shaurya Bhandari, a sophomore at SRM Institute of Science and Technology, KTR. <br/>
-I am a self-motivated and highly resourceful individual looking forward to gradually start-up. <br/>
+I am Shaurya Bhandari, a sophomore at SRM Institute of Science and Technology, KTR. <br/> <br/>
+I am a self-motivated and highly resourceful individual looking forward to gradually start-up. <br/> <br/>
 On the bigger picture, I would like to start-up and make sure that Information and Technology is used to the best of its potential. I am passionate about transforming and modernizing Indian manufacturing by leveraging such technologies and make the manufacturing industries more efficient and competitive, on a global level.<br/>
-I wish to build real products that millions of people would use, start a company of my own. <br/>
-Let's just collaborate on a project, or just talk! 
+I wish to build real products that millions of people would use, start a company of my own. <br/><br/>
+Let's collaborate on a project, or just talk! <br/>
 
 > - 🌱 I’m currently learning Full Stack Development.
 > - 👯 I’m looking to collaborate on MERN stack projects.
