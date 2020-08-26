@@ -36,9 +36,5 @@ Let's collaborate on a project, or just talk! <br/>
 
 ---
 
-
-
----
-
 ![Dino.gif](https://github.com/ShauryaBhandari/ShauryaBhandari/blob/master/dino.gif)
 
