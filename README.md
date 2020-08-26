@@ -21,7 +21,6 @@ Let's collaborate on a project, or just talk! <br/>
 <a href="https://www.facebook.com/shauryab3">![FB](https://github.com/ShauryaBhandari/ShauryaBhandari/blob/master/Social%20Icons/fb.svg)</a> 
 <a href="https://www.instagram.com/bigxshau/">![IG](https://github.com/ShauryaBhandari/ShauryaBhandari/blob/master/Social%20Icons/ig.svg)</a>
 
----
 
 ### Languages and Tools I use: 
 <img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -34,7 +33,6 @@ Let's collaborate on a project, or just talk! <br/>
 <img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 
----
 
 ![Dino.gif](https://github.com/ShauryaBhandari/ShauryaBhandari/blob/master/dino.gif)
 
