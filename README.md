@@ -2,15 +2,15 @@
 
 <!--
 **ShauryaBhandari/ShauryaBhandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I am Shaurya Bhandari, a sophomore at SRM Institute of Science and Technology, KTR. <br/> <br/>
-A self-motivated and highly resourceful individual looking forward to gradually start-up. <br/> <br/>
-On the bigger picture, I would like make sure that Information and Technology is used to the best of its potential. I am passionate about transforming and modernizing Indian manufacturing by leveraging such technologies and make the manufacturing industries more efficient and competitive, on a global level.<br/>
-I wish to build real products that millions of people would use, start a company of my own. <br/><br/>
-Let's collaborate on a project, or just talk! <br/>
+🚀 I am Shaurya Bhandari, a self-taught full-stack web developer and an aspiring Product Manager.
 
-> - 🌱 I’m currently learning Full Stack Development.
-> - 👯 I’m looking to collaborate on projects.
-> - 💬 Ask me about anything!
+🚀 I like to think of myself as a "Hybrid Developer." In short, I enjoy being both creative + technical. Product Management allows me to be both.
+
+🚀 I specialize in front-end technologies creating bespoke sites, web components and experiences focused on usability and user experience.
+
+🚀 I graduated with a Bachelor's in Technology in Computer Science and Engineering from SRM Institute of Science and Technology.
+
+🚀 I am currently a full-time MS in Computer Science student at University of Southern California's Viterbi School of Engineering.
 
 >![Shaurya's github stats](https://github-readme-stats.vercel.app/api?username=ShauryaBhandari&show_icons=true&theme=radical)
 <br/>
